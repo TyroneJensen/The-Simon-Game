@@ -6,4 +6,4 @@ The game will add a new color at each level, the user has to much the whole patt
 
 HTML, CSS, JS, JQuery
 
-View Demo: https://tyronejensen.github.io/The_Simon_Game/
+View Demo: https://tyronejensen.github.io/The-Simon-Game/
