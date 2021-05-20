@@ -1,6 +1,6 @@
 # The_Simon_Game
 
-The Simon Game reimagined as a website
+The Simon Game reimagined as a website using JQuery
 
 HTML, CSS, JS, JQuery
 
