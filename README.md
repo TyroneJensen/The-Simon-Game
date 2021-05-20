@@ -1,4 +1,4 @@
-# The_Simon_Game
+# The-Simon-Game
 
 The Simon Game of yesteryear re-imagined as a website using JQuery
 
